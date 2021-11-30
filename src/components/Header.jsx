@@ -9,6 +9,7 @@ export default function Header() {
             <li>Home</li>
             <li>About Us</li>
             <li>Free the badges</li>
+            <li>Contact Us</li>
           </ul>
         </nav>
       </header>
