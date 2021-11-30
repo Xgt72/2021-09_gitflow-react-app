@@ -6,7 +6,8 @@ export default function Header() {
       <nav>
         <ul>
           <li>Home</li>
-          <li>About Us</li>
+          <li>About us</li>
+          <li>Les problèmes arrivent</li>
           <li>Contact Us</li>
         </ul>
       </nav>
