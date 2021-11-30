@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Xgt72/2021-09_gitflow-react-app/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/Xgt72/2021-09_gitflow-react-app/static/js/main.c8ba6d68.chunk.js",
+    "main.js.map": "/Xgt72/2021-09_gitflow-react-app/static/js/main.c8ba6d68.chunk.js.map",
+    "runtime-main.js": "/Xgt72/2021-09_gitflow-react-app/static/js/runtime-main.e3dbde4a.js",
+    "runtime-main.js.map": "/Xgt72/2021-09_gitflow-react-app/static/js/runtime-main.e3dbde4a.js.map",
+    "static/js/2.11003ffa.chunk.js": "/Xgt72/2021-09_gitflow-react-app/static/js/2.11003ffa.chunk.js",
+    "static/js/2.11003ffa.chunk.js.map": "/Xgt72/2021-09_gitflow-react-app/static/js/2.11003ffa.chunk.js.map",
+    "index.html": "/Xgt72/2021-09_gitflow-react-app/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/Xgt72/2021-09_gitflow-react-app/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.11003ffa.chunk.js.LICENSE.txt": "/Xgt72/2021-09_gitflow-react-app/static/js/2.11003ffa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3dbde4a.js",
+    "static/js/2.11003ffa.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.c8ba6d68.chunk.js"
+  ]
+}
