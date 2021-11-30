@@ -2,7 +2,7 @@
   "name": "gitflow-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Xgt72/2021-09_gitflow-react-app",
+  "homepage": "http://Xgt72.github.io/2021-09_gitflow-react-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
